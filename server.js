@@ -1,4 +1,5 @@
 // before anything run the 'npm install' to install any missing dependencies
+// express is a framework that enables more elegant routing
 
 const http = require('http');
 const fs = require('fs'); //library gives ability to read file
